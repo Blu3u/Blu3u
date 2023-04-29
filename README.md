@@ -1,14 +1,20 @@
-👋 Hey there! I'm Sebastian Fitt, an extremely passionate self-taught programmer, game developer, and AI/AR/VR enthusiast. I'm here to push the boundaries of what's possible.
+👋 Hey there!
 
-🎮 I started my own company at the age of 18, diving headfirst into the world of computer science.
+##### I'm **Sebastian Fitt**, a fervent self-taught programmer, game developer, and ``AI``/``AR``/``VR`` aficionado. I'm here to push the boundaries of what's possible.
 
-🛠️ In my homelab, I maintain an entire ESXi installation spanning multiple physical servers, including HPE and Intel enterprise class hardware, all of it behind a Cisco ASA firewall.
+---
 
-🕶️ I've modded VR headsets to support realtime face, eye, and hand tracking to be later used in indie game development efforts led by me, especially DIY motion capture setups.
+##### 🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and indie game development.
 
-🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
+##### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware, securely nestled behind a Cisco ASA firewall.
 
-🚀 My Tech Stack:
+##### 🕶️ I've customized VR headsets with real-time eye, hand and face tracking features to be later used in indie game development efforts, including MoCap.
+
+##### 🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
+
+---
+
+## 🚀 My Tech Stack:
 
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -42,27 +48,29 @@
 <img align="left" alt="nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-<img align="left" alt="google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<img align="left" alt="google" width="30px" style="padding-right:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <br>
 
-🚀 My Purpose:
+#
 
-My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
+## 🚀 My Purpose:
 
 > “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
 ― Ernest Becker, The Denial of Death
 
-🛠️ My Current Learning Goals:
+My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
+
+## 🛠️ My Current Learning Goals:
 
 - Learn the intricacies of printed circuit board (PCB) design.
 - Acquire a decent understanding of the theory behind GPT pretrained transformers.
 - Obtain an OpenBCI development kit and experiment with brain wave readings, exploring potential virtual reality (VR) applications.
 
-🎮 My Post-Work Endeavors in Progress:
+## 🎮 My Post-Work Endeavors in Progress:
 
 - Leading ``The Factory Must Survive`` indie game development project.
 
-🎨 My Interests:
+## 🎨 My Interests:
 
 - English language and literature
 - Classical music, modern orchestral epic music
@@ -77,4 +85,6 @@ My life's goal is to contribute to the emergence of digital consciousness in any
 - Home security and surveillance systems
 - Historical and modern weapon systems
 
-I am not usually active on GitHub. That's not going to change any time soon.
+---
+
+I am not usually active on ``GitHub``. That's **not going to change** any time soon.

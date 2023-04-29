@@ -7,9 +7,9 @@
 
 #### 🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and indie game development.
 
-#### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware, securely nestled behind a Cisco ASA firewall.
+#### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware and Cisco firewall.
 
-#### 🕶️ I've adapted VR headsets with real-time eye, face, and hand tracking for streamlined indie game development, including MoCap for UE5.
+#### 🕶️ I've adapted HMD's with real-time eye, face, and hand tracking for DIY motion capture on Unreal Engine 5.
 
 #### 📋 I enjoy enforcing a coding standard during code reviews.
 
@@ -53,13 +53,6 @@
 <br>
 <br>
 
-## 🚀 My Purpose
-
-> “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
-― Ernest Becker, The Denial of Death
-
-My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
-
 ## 🛠️ My Current Learning Goals
 
 - Learn the intricacies of printed circuit board (PCB) design.
@@ -69,6 +62,13 @@ My life's goal is to contribute to the emergence of digital consciousness in any
 ## 🎮 My Post-Work Endeavors in Progress
 
 - Leading ``The Factory Must Survive`` indie game development project.
+
+## 🚀 My Purpose
+
+> “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
+― Ernest Becker, The Denial of Death
+
+My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
 
 ## 🎨 My Interests
 

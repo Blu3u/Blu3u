@@ -12,8 +12,6 @@
 
 ##### 🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
 
----
-
 ## 🚀 My Tech Stack:
 
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -50,8 +48,8 @@
 <img align="left" alt="golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="google" width="30px" style="padding-right:auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <br>
-
-#
+<br>
+<br>
 
 ## 🚀 My Purpose:
 

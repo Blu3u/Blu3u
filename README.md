@@ -1,18 +1,19 @@
-👋 Hey there!
+# 👋 Hey there!
 
-##### I'm **Sebastian Fitt**, a fervent self-taught programmer, game developer, and ``AI``/``AR``/``VR`` aficionado. I'm here to push the boundaries of what's possible.
+### I'm **Sebastian Fitt**, a fervent self-taught programmer, game developer, and ``AI``/``AR``/``VR`` aficionado.
+### I'm here to push the boundaries of what's possible.
 
 ---
 
-##### 🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and indie game development.
+#### 🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and indie game development.
 
-##### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware, securely nestled behind a Cisco ASA firewall.
+#### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware, securely nestled behind a Cisco ASA firewall.
 
-##### 🕶️ I've customized VR headsets with real-time eye, hand and face tracking features to be later used in indie game development efforts, including MoCap.
+#### 🕶️ I've customized VR headsets with real-time eye, hand and face tracking features to be later used in indie game development efforts, including MoCap.
 
-##### 🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
+#### 🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
 
-## 🚀 My Tech Stack:
+## 🚀 My Tech Stack
 
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -50,25 +51,26 @@
 <br>
 <br>
 <br>
+<br>
 
-## 🚀 My Purpose:
+## 🚀 My Purpose
 
 > “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
 ― Ernest Becker, The Denial of Death
 
 My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
 
-## 🛠️ My Current Learning Goals:
+## 🛠️ My Current Learning Goals
 
 - Learn the intricacies of printed circuit board (PCB) design.
 - Acquire a decent understanding of the theory behind GPT pretrained transformers.
 - Obtain an OpenBCI development kit and experiment with brain wave readings, exploring potential virtual reality (VR) applications.
 
-## 🎮 My Post-Work Endeavors in Progress:
+## 🎮 My Post-Work Endeavors in Progress
 
 - Leading ``The Factory Must Survive`` indie game development project.
 
-## 🎨 My Interests:
+## 🎨 My Interests
 
 - English language and literature
 - Classical music, modern orchestral epic music

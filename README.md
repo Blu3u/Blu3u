@@ -1,12 +1,12 @@
 👋 Hey there! I'm Sebastian Fitt, an extremely passionate self-taught programmer, game developer, and AI/AR/VR enthusiast. I'm here to push the boundaries of what's possible.
 
-🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and game development. With an insatiable appetite for knowledge, I've become a full stack developer and also have real world experience working both independently and collaboratively in a larger team on a wide range of aspects, encompassing frontend, backend, documentation, automation, and more...
+🎮 I started my own company at the age of 18, diving headfirst into the world of computer science.
 
-🛠️ In my homelab server rack, I maintain an entire ESXi installation spanning multiple physical servers, including HPE and Intel enterprise class hardware, hosting various virtual machines, containers, all of it behind a Cisco ASA firewall.
+🛠️ In my homelab, I maintain an entire ESXi installation spanning multiple physical servers, including HPE and Intel enterprise class hardware, all of it behind a Cisco ASA firewall.
 
-🕶️ I've modded VR headsets to support realtime face tracking, eye tracking, and hand tracking to be later used in indie game development efforts led by me, especially DIY motion capture setup for Unreal Engine using Lighthouse tracking system.
+🕶️ I've modded VR headsets to support realtime face, eye, and hand tracking to be later used in indie game development efforts led by me, especially DIY motion capture setups.
 
-🎨 I excel at maneuvering through and working with large code bases, like Unreal Engine, or other over-million-lines proprietary code bases throughout my career. I am good at planning refactoring efforts for large-scale projects.
+🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
 
 🚀 My Tech Stack:
 
@@ -43,12 +43,13 @@
 <img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img align="left" alt="golang" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="google" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<br>
 
 🚀 My Purpose:
 
-My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future where those who come after me are greeted by a world free of death, liberated from the oppressive limitations of biological bodies, and enriched by the potential for greater understanding, harmony, and space exploration.
+My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
 
-“The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
+> “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
 ― Ernest Becker, The Denial of Death
 
 🛠️ My Current Learning Goals:

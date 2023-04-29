@@ -9,9 +9,9 @@
 
 #### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware, securely nestled behind a Cisco ASA firewall.
 
-#### 🕶️ I've customized VR headsets with real-time eye, hand and face tracking features to be later used in indie game development efforts, including MoCap.
+#### 🕶️ I've adapted VR headsets with real-time eye, face, and hand tracking for streamlined indie game development, including MoCap for UE5.
 
-#### 🎨 I excel at maneuvering through and working with large code bases. I am good at planning refactoring efforts for large-scale projects.
+#### 📋 I enjoy enforcing a coding standard during code reviews.
 
 ## 🚀 My Tech Stack
 

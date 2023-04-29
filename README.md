@@ -13,6 +13,8 @@
 
 #### 📋 I enjoy enforcing a coding standard during code reviews.
 
+<br>
+
 ## 🚀 My Tech Stack
 
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />

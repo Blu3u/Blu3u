@@ -1,17 +1,17 @@
 # 👋 Hey there!
 
-### I'm **Sebastian Fitt**, a fervent self-taught programmer, game developer, and ``AI``/``AR``/``VR`` aficionado.
-### I'm here to push the boundaries of what's possible.
+### I'm a self-taught programmer, founder of a small indie game development studio, and a VR enthusiast.
+### I'm here to push the boundaries of what's possible. Or at least try to. 🚀
 
 ---
 
-#### 🎮 I started my own company at the age of 18, diving headfirst into the world of computer science and indie game development.
+#### 🚀 Launched my own IT company when I was just 18!
 
-#### 🛠️ In my homelab, I manage an ESXi deployment, incorporating HPE and Intel enterprise-grade hardware and Cisco firewall.
+#### 🧪 Love tinkering in my homelabs, always something new to try.
 
-#### 🕶️ I've adapted HMD's with real-time eye, face, and hand tracking for DIY motion capture on Unreal Engine 5.
+#### 🥽 I've modded VR headsets with real-time eye, face, and hand tracking.
 
-#### 📋 I enjoy enforcing a coding standard during code reviews.
+#### 🧐 I'm that guy who gets a little too excited about coding standards.
 
 <br>
 
@@ -56,9 +56,10 @@
 
 ## 🛠️ My Current Learning Goals
 
-- Learn the intricacies of printed circuit board (PCB) design.
-- Acquire a decent understanding of the theory behind GPT pretrained transformers.
-- Obtain an OpenBCI development kit and experiment with brain wave readings, exploring potential virtual reality (VR) applications.
+- Learn music theory and playing on a piano.
+- Learn printed circuit board (PCB) design.
+- Understand how to build GPT from scratch.
+- OpenBCI development kit experiments for VR.
 
 ## 🎮 My Post-Work Endeavors in Progress
 
@@ -69,23 +70,31 @@
 > “The irony of man's condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.”
 ― Ernest Becker, The Denial of Death
 
-My life's goal is to contribute to the emergence of digital consciousness in any way I can, paving the way for a future, where people will be liberated from the oppressive limitations of biological bodies.
+I'm all about helping create digital consciousness, any way I can. I dream of a future where people aren't held back by their physical bodies anymore.
 
 ## 🎨 My Interests
 
-- English language and literature
-- Classical music, modern orchestral epic music
+I wish I could learn more, but there's only so much time in a day. 😅
+
+- English language and literature (Lord of the Rings!!!)
+- Classical music, modern orchestral epic music (time to learn it, too!)
 - 2D painting on my graphics tablet, computer graphics
-- 3D printing random stuff for my DIY projects
-- Game design and development
-- Creating virtual reality experiences
-- Making DIY AR/VR accessories
-- Making DIY wearable electronics, robotics
-- Experimenting with AI including recent OpenAI breakthrough with GPT-transformers
-- Networking and tinkering with server class enterprise hardware
+- 3D printing stuff for my DIY projects (and for fun!)
+- Game design and development (mostly Unreal Engine, since 2014)
+- Creating virtual reality experiences (I'm a gamedev yay!)
+- PC gaming enthusiast, building custom gaming rigs (and overclocking!)
+- Making DIY AR/VR accessories (like EyeTrackVR)
+- Making DIY wearable electronics, robotics (a glove to control robots!)
+- Experimenting with AI agents hosted on my homelab
+- Server class enterprise hardware in my rack
 - Home security and surveillance systems
 - Historical and modern weapon systems
+- Sewing, creating cosplays for fantasy conventions
+- Mechanical keyboards and custom keycaps
+- Your average Linux enjoyer (distro hopping, but I like Arch and NixOS)
+- Biohacking, nootropics, and transhumanism
+- Bioinformatics
 
 ---
 
-I am not usually active on ``GitHub``. That's **not going to change** any time soon.
+I am not usually active on public repos on ``GitHub``. That's **not going to change** any time soon.

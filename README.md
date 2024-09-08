@@ -78,10 +78,15 @@ I wish I could learn more, but there's only so much time in a day. 😅
 
 - English language and literature (Lord of the Rings!!!)
 - Classical music, modern orchestral epic music (time to learn it, too!)
-- 2D painting on my graphics tablet, computer graphics
-- 3D printing stuff for my DIY projects (and for fun!)
+- Sewing, creating cosplays for fantasy conventions
+- Board games and tabletop RPGs (D&D, Warhammer 40k)
+- Writing stories (I'm going to get good enough to write a sci-fi book!)
+- 2D painting on my graphics tablet, computer graphics, shaders
+- 3D printing stuff for my DIY projects (and for fun of course!)
 - Game design and development (mostly Unreal Engine, since 2014)
-- Creating virtual reality experiences (I'm a gamedev yay!)
+- Creating virtual reality experiences (I'm a VR gamedev too, yay!)
+- Social VR, hosting VR events, and meetups
+- Voice Actor in the Making (I need a voice actor for my games!)
 - PC gaming enthusiast, building custom gaming rigs (and overclocking!)
 - Making DIY AR/VR accessories (like EyeTrackVR)
 - Making DIY wearable electronics, robotics (a glove to control robots!)
@@ -89,7 +94,6 @@ I wish I could learn more, but there's only so much time in a day. 😅
 - Server class enterprise hardware in my rack
 - Home security and surveillance systems
 - Historical and modern weapon systems
-- Sewing, creating cosplays for fantasy conventions
 - Mechanical keyboards and custom keycaps
 - Your average Linux enjoyer (distro hopping, but I like Arch and NixOS)
 - Biohacking, nootropics, and transhumanism
